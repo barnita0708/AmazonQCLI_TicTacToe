@@ -1,0 +1,57 @@
+You're a professional Python developer with expertise in game development using Pygame.
+
+Task: Write a complete, fully functional Python script for a two-player Tic-Tac-Toe game using the Pygame library. The implementation must include the following features:
+
+🔹 Game Features
+Game Board
+
+Display a 3x3 grid rendered using Pygame to represent the Tic-Tac-Toe board.
+
+Player Turns
+
+Clearly indicate the current player's turn (Player X or Player O).
+
+Players take alternate turns by clicking on empty squares to place their mark.
+
+Input Handling
+
+Detect mouse clicks to determine which square was clicked.
+
+Prevent players from selecting already occupied squares.
+
+Win Detection
+
+Detect if a player wins by having three of their marks aligned (row, column, or diagonal).
+
+Show a clear message like "Player X Wins!" or "Player O Wins!".
+
+Draw Detection
+
+Detect if the board is full and there's no winner.
+
+Display the message: "It's a Draw!".
+
+Reset Functionality
+
+Allow players to restart the game either by:
+
+Pressing a key (e.g., 'R'), or
+
+Clicking a “Play Again” button on screen.
+
+Graphics
+
+Use simple shapes to draw the board and marks.
+
+Ensure all visuals (grid, text, symbols) are clear, clean, and visually distinct using appropriate colors.
+
+Game Loop
+
+Implement a standard Pygame loop for handling events, updating the game state, and rendering visuals.
+
+🔹 Requirements
+The code should be well-structured, readable, and logically organized.
+
+All required Pygame imports must be included.
+
+The game must be fully runnable without external dependencies other than Pygame.
