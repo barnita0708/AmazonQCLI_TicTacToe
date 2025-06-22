@@ -93,7 +93,9 @@ This project is open-source and available under the MIT License.
 
 ## ✒ Blog Link 
 
-Here's
+Here's the blog link for **Build Games with Amazon Q CLI** challenge
+
+https://shorturl.at/2w9JU
 
 ## 🙏 Acknowledgements
 Amazon Q CLI – for AI-assisted development workflow
